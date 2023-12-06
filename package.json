@@ -1,0 +1,21 @@
+{
+  "name": "4Antrax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.1",
+    "config": "^3.3.7",
+    "config.json": "0.0.4",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.3",
+    "json": "^11.0.0",
+    "maxmind": "^4.3.11"
+  }
+}
